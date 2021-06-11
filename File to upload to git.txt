@@ -1,1 +1,3 @@
 this is a sample to test how git works.
+
+this is the first change to file after making 2 new branches.
